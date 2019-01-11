@@ -1,14 +1,7 @@
 #profile .portrait {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
   border-radius: 50%;
-  object-fit: contain;
-}
-.author-card .portrait {
-  width: 60px;
-  height: 60px;
-  margin: 0 auto;
-  border-radius: 50%;
-  object-fit: contain;
+  object-fit: fill;
 }
