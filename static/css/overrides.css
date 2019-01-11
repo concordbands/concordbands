@@ -1,8 +1,5 @@
-/* menu_text_active = #BBBBBB */
-body {
-  background: black;
-}
 #profile .portrait {
+  border: 1px black;
   width: 300px;
   height: 300px;
   margin: 0 auto;
