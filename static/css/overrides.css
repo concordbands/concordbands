@@ -3,7 +3,7 @@
   height: 200px;
   margin: 0 auto;
   border-radius: 90%;
-  object-fit: fill;
+  object-fit: contain;
 }
 .big-icon {
   font-size: .5rem;
