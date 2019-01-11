@@ -4,9 +4,6 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-# Custom CSS
-custom_css = [ "overrides.css" ]
-
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
@@ -62,11 +59,11 @@ enableGitInfo = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 #  organizations = [ { name = "Stanford University", url = "" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "logo.png" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "cnoce@concordps.org"
+  email = "cnoce@concordps.org, phalpainy@concordps.org"
   address = "Concord Bands, 835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
@@ -96,7 +93,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
@@ -108,7 +105,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -185,7 +182,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["overrides.css"]
   custom_js  = []
 
   # Publication types.
