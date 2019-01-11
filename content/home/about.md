@@ -4,9 +4,9 @@ date = "2016-04-20T00:00:00.000+00:00"
 weight = 5
 widget = "about"
 [[education.courses]]
-course = "PhD in Artificial Intelligence"
-institution = "Stanford University"
-year = 2012
+course = "Gold Medal, MICCA Concert Festival"
+institution = "6th Grade Concert Band"
+year = 2017, 2018
 [[education.courses]]
 course = "MEng in Artificial Intelligence"
 institution = "Massachusetts Institute of Technology"
