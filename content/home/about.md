@@ -4,17 +4,17 @@ date = "2016-04-20T00:00:00.000+00:00"
 weight = 5
 widget = "about"
 [[education.courses]]
-course = "Gold Medal, MICCA Concert Festival: 2017, 2018"
+course = "Gold Medal, MICCA Concert Festival"
 institution = "6th Grade Concert Band"
-year = 
+year = 2018
 [[education.courses]]
-course = "MEng in Artificial Intelligence"
-institution = "Massachusetts Institute of Technology"
-year = 2009
+course = "Gold Medal, MICCA Concert Festival"
+institution = "6th Grade Concert Band"
+year = 2017
 [[education.courses]]
-course = "BSc in Artificial Intelligence"
-institution = "Massachusetts Institute of Technology"
-year = 2008
+course = "Silver Medal, MAJE Junior Festival"
+institution = "CMS Jazz Band"
+year = 2018
 [interests]
 interests = [
 "CEF Grant Recipient",
