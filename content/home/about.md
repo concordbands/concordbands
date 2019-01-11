@@ -20,7 +20,7 @@ interests = [
 "MICCA Gold Medal Showcase at Boston Symphony Hall: 2017, 2018",
 "Berklee College of Music Invitational Scholastic Music Festival: Spring, 2018",
 "MMEA Eastern District Peer Concert: 2016, 2017, 2018",
-"<a href='http://concordedfund.org/2016/06/cms-band-performs-two-world-premier-pieces/'>World Premier</a>: “From the Concord Chronicles: The Shot Heard 'Round the World” and “Resplendent Light” by <a href="http://tylersgrant.com">Tyler S. Grant</a>: Spring 2016"]
+"<a href='http://concordedfund.org/2016/06/cms-band-performs-two-world-premier-pieces/'>World Premier</a>: 'From the Concord Chronicles: The Shot Heard 'Round the World' and 'Resplendent Light' by <a href='http://tylersgrant.com'>Tyler S. Grant</a>: Spring 2016"]
 +++
 
 # Concord Bands
