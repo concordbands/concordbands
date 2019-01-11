@@ -62,11 +62,11 @@ enableGitInfo = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 #  organizations = [ { name = "Stanford University", url = "" } ]
 
-#  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "logo.png" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "cnoce@concordps.org,phalpainy@concordps.org"
+  email = "cnoce@concordps.org"
   address = "Concord Bands, 835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
