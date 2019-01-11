@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "cnoce@concordps.org,phalpainy@concordps.org"
+  email = "cnoce@concordps.org"
   address = "Concord Bands, 835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
