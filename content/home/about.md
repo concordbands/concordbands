@@ -16,9 +16,13 @@ course = "BSc in Artificial Intelligence"
 institution = "Massachusetts Institute of Technology"
 year = 2008
 [interests]
-interests = ["<a href='concordedfund.org'>CEF</a> Grant Recipient", "MICCA Gold Medal Showcase Performer", "Berklee Scholastic Invitational", "MMEA Peer Concert Host"]
-
+interests = [
+"MICCA Gold Medal Showcase at Boston Symphony Hall: 2017, 2018",
+"Berklee College of Music Invitational Scholastic Music Festival: Spring, 2018",
+"MMEA Eastern District Peer Concert: 2016, 2017, 2018",
+"<a href='http://concordedfund.org/2016/06/cms-band-performs-two-world-premier-pieces/'>World Premier</a>: “From the Concord Chronicles: The Shot Heard 'Round the World” and “Resplendent Light” by <a href="http://tylersgrant.com">Tyler S. Grant</a>: Spring 2016"]
 +++
+
 # Concord Bands
 
 The Concord Public School Band Program consists of bands in grades 4-8 in the Concord, Massachusetts public schools and continues with the [Concord-Carlisle High School Band Program](http://cchsbands.com/ "http://cchsbands.com") at Concord Carlisle Regional High School. Band is available to students in the town's three elementary schools as well as at the middle school and is divided into fourth grade, fifth grade, sixth grade and a combined seventh and eighth grade band. Jazz Ensembles and other groups are also available at the middle school level.
