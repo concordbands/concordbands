@@ -63,17 +63,13 @@ enableGitInfo = false
   avatar = "" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "cnoce@concordps.org"
+  email = "cnoce@concordps.org,phalpainy@concordps.org"
   address = "Concord Bands, 835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
   #Otherwise email to book an appointment
   #"""
-  phone = "978-341-2778"
-  twitter = "concordbands"
-  facebook = "concordbands"
-  instagram = "concordbands"
   
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -122,7 +118,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "concordbands"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
