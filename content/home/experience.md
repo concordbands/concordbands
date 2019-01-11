@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,18 +19,15 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "MICCA Concert Festival"
+  company = "Massachusetts Instrumental and Choral Conductors Association"
+  company_url = "http://miccamusic.org"
+  location = "Lexington High School"
+  date_start = "2018"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * **7th & 8th Grade Concert Band** Silver Medal
+  * **6th Grade Concert Band** Gold Medal - *Gold Medal Showcase Performance at Symphony Hall*
   """
 
 [[experience]]
