@@ -2,7 +2,7 @@
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  border-radius: 90%;
+  border-radius: 0%;
   object-fit: cover;
 }
 .big-icon {
