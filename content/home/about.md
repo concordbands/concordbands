@@ -15,7 +15,7 @@ year = 2009
 course = "BSc in Artificial Intelligence"
 institution = "Massachusetts Institute of Technology"
 year = 2008
-[interests]
+[recognition]
 interests = ["6th Grade Band: Gold Medal (2018, 2017), Silver Medal (2016, 2015)", "Computational Linguistics", "Information Retrieval"]
 
 +++
