@@ -16,7 +16,7 @@ course = "BSc in Artificial Intelligence"
 institution = "Massachusetts Institute of Technology"
 year = 2008
 [interests]
-interests = ["<a href="concordedfund.org">CEF</a> Grant Recipient", "MICCA Gold Medal Showcase Performer", "Berklee Scholastic Invitational", "MMEA Peer Concert Host"]
+interests = ["<a href='concordedfund.org'>CEF</a> Grant Recipient", "MICCA Gold Medal Showcase Performer", "Berklee Scholastic Invitational", "MMEA Peer Concert Host"]
 
 +++
 # Concord Bands
