@@ -3,25 +3,6 @@ active = true
 date = "2016-04-20T00:00:00.000+00:00"
 weight = 1
 widget = "about"
-<!-- [[education.courses]]
-course = "Gold Medal, MICCA Concert Festival"
-institution = "6th Grade Concert Band"
-year = 2018
-[[education.courses]]
-course = "Gold Medal, MICCA Concert Festival"
-institution = "6th Grade Concert Band"
-year = 2017
-[[education.courses]]
-course = "Silver Medal, MAJE Junior Festival"
-institution = "CMS Jazz Band"
-year = 2018
-[interests]
-interests = [
-"CEF Grant Recipient",
-"MICCA Gold Medal Showcase",
-"Berklee Scholastic Invitational",
-"MMEA Peer Concert Host"
-] -->
 +++
 
 # Concord Bands
