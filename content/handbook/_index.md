@@ -1,5 +1,5 @@
 +++
-title = "Overview"
+title = "Handbook"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,19 +9,48 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.tutorial]
-  name = "Overview"
+[menu.handbook]
+  name = "Handbook"
   weight = 1
 +++
+# Handbook
 
-This feature can be used for publishing content such as:
+Please note: this is a living document and updates are made as required. *All information, guidelines and policies are subject to change.*
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+#### Contents:
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
+- [Welcome][]
+- [About Our Ensembles][]
+  + Elementary School Bands
+    - Fourth Grade Band
+    - Fifth Grade Band
+  + Concord Middle School Bands
+    - Concert Band
+    - Jazz Ensembles
+    - Wind Ensemble
+- [Expectations][]
+  + Communication
+  + Rehearsals
+  + Concerts
+  + Schedule Conflicts
+  + Home Practice
+- [Required Materials][]
+  + Elementary School Bands
+  + Concord Middle School Bands
+  + Instrument Acquisition
+- [Private Lessons][]
+  + Instrumental Music School of Carlisle and Concord
+  + Additional Resources
+- [Grading Policy][]
+  + Concert Attendance
+- [Concert Dress][]
+  + Formal Performances
+    - Unacceptable Attire and Consequences
+  + Casual Performances
+  + Informances
 
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
-
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+#### Appendices:
+- [Summer Band](../summer)
+- [MMEA Eastern District Jr. Festival](../junior)
+- [Calendar](../calendar)
+- [How to Practice](expectations#home-practice)
