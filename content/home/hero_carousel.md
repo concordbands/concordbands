@@ -5,7 +5,7 @@ active = true
 date = 2017-10-15T00:00:00
 
 # Order that this section will appear in.
-weight = 1
+weight = 2
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
