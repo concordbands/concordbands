@@ -13,7 +13,6 @@ type = "docs"  # Do not modify.
   name = "Required Materials"
   weight = 4
 +++
-# Required Materials
 
 ## Elementary School Bands
 

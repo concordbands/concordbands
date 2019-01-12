@@ -13,7 +13,6 @@ type = "docs"  # Do not modify.
   name = "Welcome"
   weight = 2
 +++
-# Welcome
 
 Dear Musicians and Families,
 

@@ -13,7 +13,6 @@ type = "docs"  # Do not modify.
   name = "Expectations"
   weight = 3
 +++
-# Expectations
 
 ## Communication
 

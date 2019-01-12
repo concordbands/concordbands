@@ -13,14 +13,12 @@ type = "docs"  # Do not modify.
   name = "Handbook"
   weight = 1
 +++
-# Handbook
-
 Please note: this is a living document and updates are made as required. *All information, guidelines and policies are subject to change.*
 
 #### Contents:
 
-- [Welcome][]
-- [About Our Ensembles][]
+- [Welcome][./welcome]
+- [About Our Ensembles][./about_our_ensembles]
   + Elementary School Bands
     - Fourth Grade Band
     - Fifth Grade Band
@@ -28,22 +26,22 @@ Please note: this is a living document and updates are made as required. *All in
     - Concert Band
     - Jazz Ensembles
     - Wind Ensemble
-- [Expectations][]
+- [Expectations][./expectations]
   + Communication
   + Rehearsals
   + Concerts
   + Schedule Conflicts
   + Home Practice
-- [Required Materials][]
+- [Required Materials][./required_materials]
   + Elementary School Bands
   + Concord Middle School Bands
   + Instrument Acquisition
-- [Private Lessons][]
+- [Private Lessons][./private_lessons]
   + Instrumental Music School of Carlisle and Concord
   + Additional Resources
-- [Grading Policy][]
+- [Grading Policy][./grading_policy]
   + Concert Attendance
-- [Concert Dress][]
+- [Concert Dress][./concert_dress]
   + Formal Performances
     - Unacceptable Attire and Consequences
   + Casual Performances

@@ -13,7 +13,6 @@ type = "docs"  # Do not modify.
   name = "Grading Policy"
   weight = 6
 +++
-# Grading Policy
 
 *Instrumental music at the elementary level is not a graded activity.*
 
