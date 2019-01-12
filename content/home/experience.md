@@ -19,10 +19,10 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "MICCA Concert Festival"
-  company = "Massachusetts Instrumental and Choral Conductors Association"
+  title = "Gold Medal, Showcase Performance @ Symphony Hall"
+  company = "MICCA Concert Festival"
   company_url = "http://miccamusic.org"
-# location = "Lexington High School"
+  location = "Lexington High School"
   date_start = "2018-01-01"
   date_end = "2018-01-01"
   description = """
