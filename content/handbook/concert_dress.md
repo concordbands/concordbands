@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 [menu.handbook]
   name = "Concert Dress"
-  weight = 7
+  weight = 8
 +++
 
 For the __5th Grade Arts Night__ performances, concert attire for elementary students is set in accordance with that of either their school chorus or the “Casual Performances” dress code set out below. For all other performances, please use the information below as a guide.

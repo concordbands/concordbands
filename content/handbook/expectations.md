@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 [menu.handbook]
   name = "Expectations"
-  weight = 3
+  weight = 4
 +++
 
 ## Communication

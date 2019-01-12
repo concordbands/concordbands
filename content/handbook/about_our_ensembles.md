@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 [menu.handbook]
   name = "About Our Ensembles"
-  weight = 2
+  weight = 3
 +++
 
 Band is available to all students in Concord once they enter the fourth grade. Registration takes place at the end of the year each year (for example, to participate in band in fourth grade, students register at the end of third grade).

@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 [menu.handbook]
   name = "Required Materials"
-  weight = 4
+  weight = 5
 +++
 
 ## Elementary School Bands

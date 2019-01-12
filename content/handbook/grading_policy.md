@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 [menu.handbook]
   name = "Grading Policy"
-  weight = 6
+  weight = 7
 +++
 
 *Instrumental music at the elementary level is not a graded activity.*

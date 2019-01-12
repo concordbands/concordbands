@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 [menu.handbook]
   name = "Private Lessons"
-  weight = 5
+  weight = 6
 +++
 
 Students in the Concord Bands do not receive individual instrumental instruction as part of our curriculum. It is **strongly** encouraged that students study privately with a music teacher outside of school on a weekly basis in order to continue progressing as a musician. There are many highly qualified private music teachers in the area.
