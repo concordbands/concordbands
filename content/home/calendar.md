@@ -1,7 +1,7 @@
 +++
 active = true
 date = "2016-04-20T00:00:00.000+00:00"
-subtitle = "2018/19 School Year"
+subtitle = "2018-2019 School Year"
 title = "Calendar"
 weight = 4
 widget = "custom"
