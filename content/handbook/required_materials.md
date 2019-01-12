@@ -9,7 +9,7 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.tutorial]
+[menu.handbook]
   name = "Required Materials"
   weight = 4
 +++
