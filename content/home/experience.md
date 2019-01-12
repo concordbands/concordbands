@@ -4,7 +4,7 @@ widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Awards & Recognition"
-subtitle = "We are quite good!"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 8
@@ -19,17 +19,12 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Gold Medal, Showcase Performance @ Symphony Hall"
-  company = "MICCA Concert Festival"
+  title = "Gold Medal, MICCA Concert Festival"
+  company = "6th Grade Concert Band"
   company_url = "http://miccamusic.org"
-# location = "Lexington High School"
   date_start = "2018-01-01"
-  date_end = "2018-01-01"
-  description = """
-
-  * **7th & 8th Grade Concert Band** Silver Medal
-  * **6th Grade Concert Band** Gold Medal - *Gold Medal Showcase Performance at Symphony Hall*
-  """
+  date_end = ""
+  description = """Gold Medal Showcase Performance at Symphony Hall, Boston"""
 
 [[experience]]
   title = "Professor"
