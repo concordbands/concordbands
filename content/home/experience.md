@@ -24,9 +24,9 @@ date_format = "2006"
   company_url = "http://miccamusic.org"
 # location = "Lexington High School"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2018-01-01"
   description = """
-  
+
   * **7th & 8th Grade Concert Band** Silver Medal
   * **6th Grade Concert Band** Gold Medal - *Gold Medal Showcase Performance at Symphony Hall*
   """
