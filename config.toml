@@ -70,7 +70,7 @@ enableGitInfo = false
   #Wednesday 09:00 to 10:00<br>
   #Otherwise email to book an appointment
   #"""
-  
+
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
 
@@ -297,8 +297,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Calendar"
+  url = "#calendar"
   weight = 2
 
 [[menu.main]]
@@ -312,8 +312,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Handbook"
+  url = "/handbook/"
   weight = 5
 
 [[menu.main]]
