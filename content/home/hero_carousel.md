@@ -19,8 +19,8 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Elementary Honor Band"
-  content = "Open to elementary-aged band students from Carlisle and Concord."
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "Be a part of this new ensemble's premier year! Open to elementary-aged band students from Carlisle and Concord."
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
