@@ -32,7 +32,7 @@ height = "200px"
   cta_label = "Audition Info. & Materials"
   cta_url = "https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing"
   cta_icon_pack = "fas"
-  cta_icon = "fa-file-text"
+  cta_icon = "graduation-cap"
 
 [[item]]
   title = "MICCA Survival Guides"
