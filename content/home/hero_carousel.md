@@ -19,20 +19,20 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Elementary Honor Band"
-  content = ""
+  content = "[Honor Band Information/Letter](https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing) | [Audition Materials](https://drive.google.com/open?id=1Ju4_3k7B6AuvyCSA3CQVf_dXAoe1I4ym)"
   align = "left"  # Choose `center`, `left`, or `right`.
 
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+# Overlay a color or image (optional).
+# Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#555"  # An HTML color value.
 
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Audition Info. & Materials"
-  cta_url = "https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing"
-  cta_icon_pack = "fas"
-  cta_icon = "file"
+# Call to action button (optional).
+# Activate the button by specifying a URL and button label below.
+# Deactivate by commenting out parameters, prefixing lines with `#`.
+# cta_label = "Audition Info. & Materials"
+# cta_url = "https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing"
+# cta_icon_pack = "fas"
+# cta_icon = "file"
 
 [[item]]
   title = "MICCA Survival Guides"
