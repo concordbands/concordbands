@@ -64,7 +64,7 @@ enableGitInfo = true
 
   # Details for the Contact Widget
   email = "cnoce@concordps.org, phalpainy@concordps.org"
-  address = "835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
+  address = "Concord Bands, 835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
   # office_hours = ""
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
@@ -92,7 +92,7 @@ enableGitInfo = true
   map = 1
   map_api_key = ""
   latitude = "42.439774"
-  longitude = "71.395580"
+  longitude = "-71.395580"
   zoom = 15
 
   # SITE SETUP
