@@ -24,7 +24,7 @@ height = "200px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -35,21 +35,17 @@ height = "200px"
   cta_icon = "fa-file-text"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
-
+  title = "MICCA Survival Guides"
+  content = "[6th Grade](https://drive.google.com/open?id=1BcVOGY-Wx4e492xpVjY_7hH9gK82n3ieYsonV3VkVOY) | [7th & 8th Grade](https://drive.google.com/open?id=1hMNBu8S7DLm8HPJvFQGLB-gmqtiski2_Pg3UZ69oXiw) | [Wind Ensemble](https://drive.google.com/open?id=121kFtYAntHqxBPCJULnckBCewS8kcJjnkHG0CnjRq_g)"
+  align = "center"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# [[item]]
+# title = "Right"
+# content = "I am right aligned :smile:"
+# align = "right"
+# overlay_color = "#555"  # An HTML color value.
+# overlay_img = ""  # Image path relative to your `static/img/` folder.
+# overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
