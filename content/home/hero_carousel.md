@@ -19,7 +19,10 @@ height = "200px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Elementary Honor Band"
-  content = "[Honor Band Information/Letter](https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing) | [Audition Materials](https://drive.google.com/open?id=1Ju4_3k7B6AuvyCSA3CQVf_dXAoe1I4ym)"
+  content = "
+  Elementary Honor Band [Information/Letter](https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing) and [Audition Materials](https://drive.google.com/open?id=1Ju4_3k7B6AuvyCSA3CQVf_dXAoe1I4ym) \
+  2019 MICCA Survival Guides for [6th Grade](https://drive.google.com/open?id=1BcVOGY-Wx4e492xpVjY_7hH9gK82n3ieYsonV3VkVOY), [7th & 8th Grade](https://drive.google.com/open?id=1hMNBu8S7DLm8HPJvFQGLB-gmqtiski2_Pg3UZ69oXiw) and [Wind Ensemble](https://drive.google.com/open?id=121kFtYAntHqxBPCJULnckBCewS8kcJjnkHG0CnjRq_g)
+  "
   align = "left"  # Choose `center`, `left`, or `right`.
 
 # Overlay a color or image (optional).
