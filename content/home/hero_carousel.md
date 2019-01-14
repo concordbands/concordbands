@@ -25,7 +25,7 @@ height = "200px"
 
 [[item]]
   title = ""
-  content = "2019 MICCA Survival Guides for [6th](https://drive.google.com/open?id=1BcVOGY-Wx4e492xpVjY_7hH9gK82n3ieYsonV3VkVOY), [7th/8th](https://drive.google.com/open?id=1hMNBu8S7DLm8HPJvFQGLB-gmqtiski2_Pg3UZ69oXiw) and [Wind Ensemble](https://drive.google.com/open?id=121kFtYAntHqxBPCJULnckBCewS8kcJjnkHG0CnjRq_g)"
+  content = "MICCA Survival Guide: [6th](https://drive.google.com/open?id=1BcVOGY-Wx4e492xpVjY_7hH9gK82n3ieYsonV3VkVOY), [7th/8th](https://drive.google.com/open?id=1hMNBu8S7DLm8HPJvFQGLB-gmqtiski2_Pg3UZ69oXiw) and [Wind Ensemble](https://drive.google.com/open?id=121kFtYAntHqxBPCJULnckBCewS8kcJjnkHG0CnjRq_g)"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "#555"  # An HTML color value.
 
