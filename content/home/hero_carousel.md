@@ -19,7 +19,7 @@ height = "200px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Concord-Carlisle Elementary Honor Band"
-  content = "Information and Audition Music Below"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,15 +29,10 @@ height = "200px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Information"
+  cta_label = "Audition Info. & Materials"
   cta_url = "https://docs.google.com/document/d/1coyw1BH4DMoXCFT-v3is6oFUfZyTgd2MJRVHH0nkL48/edit?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "file-text"
-
-  cta_label = "Audition Music"
-  cta_url = "https://drive.google.com/open?id=1Ju4_3k7B6AuvyCSA3CQVf_dXAoe1I4ym"
-  cta_icon_pack = "fas"
-  cta_icon = "music"
 
 [[item]]
   title = "Left"
