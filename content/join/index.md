@@ -15,16 +15,9 @@ weight = 60
 
 +++
 
-Band in Concord is a traditional, scholastic concert band consisting of woodwind, brass and percussion instruments. In year one, students may choose from the following instruments:
+Band in Concord is a traditional, scholastic concert band consisting of woodwind, brass and percussion instruments. In year one, students may choose from the following instruments: [Flute](http://vimeo.com/81819608), [Clarinet](http://vimeo.com/81816192), [Trumpet](http://vimeo.com/81818744), [Trombone](http://vimeo.com/81818078), [Euphonium](http://vimeo.com/81813286) and [Percussion (Bells)](http://vimeo.com/81813284).
 
-* [Flute](http://vimeo.com/81819608)
-* [Clarinet](http://vimeo.com/81816192)
-* [Trumpet](http://vimeo.com/81818744)
-* [Trombone](http://vimeo.com/81818078)
-* [Euphonium](http://vimeo.com/81813286)
-* [Percussion (Bells)](http://vimeo.com/81813284)
-
-Students interested in studying oboe, bassoon, saxophone, french horn or tuba will be directed to a related first-year instrument at the time of registration that will prepare them for their desired instrument. Switching to one of these instruments occurs at the end of the student's first year of band.
+>Students interested in studying oboe, bassoon, saxophone, french horn or tuba will be directed to a related first-year instrument at the time of registration that will prepare them for their desired instrument. Switching to one of these instruments occurs at the end of the student's first year of band.
 
 *Please note: drum set, guitar and piano are not part of the curricular bands in Concord.*
 
