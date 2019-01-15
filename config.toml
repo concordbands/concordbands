@@ -53,11 +53,11 @@ enableGitInfo = true
 
   # Your details.
   name = "Concord Bands"
-  role = "Traditional and emerging instrumental music ensembles in Concord, MA."
+  # role = "Traditional and emerging instrumental music ensembles in Concord, MA."
 
   # Organizations/Affiliations.
   # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Concord Public Schools", url = "http://concordps.org" } ]
+  # organizations = [ { name = "Concord Public Schools", url = "http://concordps.org" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "logo.png" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
