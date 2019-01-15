@@ -3,7 +3,6 @@ active = false
 date = 2016-04-20T00:00:00
 weight = 1
 widget = "custom"
-
 +++
 
 ### Concord-Carlisle Elementary Honor Band
