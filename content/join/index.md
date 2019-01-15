@@ -42,4 +42,4 @@ Registration for elementary instrumental music is open! If you have not register
 ----
 
 <html>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFKwzIgn6pGrm_dJZTeO6Xg54zXDQmFM020odrCHK2ULzvZg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></html>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFKwzIgn6pGrm_dJZTeO6Xg54zXDQmFM020odrCHK2ULzvZg/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></html>
