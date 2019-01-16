@@ -20,6 +20,6 @@ list_format = 2
 
 # Filter posts by tag or category.
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`
-filter_tag = ""
+filter_tag = "News"
 filter_category = ""
 +++
