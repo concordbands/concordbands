@@ -283,32 +283,27 @@ enableGitInfo = true
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = false
+  align_right = true
 
 [[menu.main]]
-  name = "<i class='fas fa-home'></i>Home"
+  name = "<i class='fas fa-home'></i> Home"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Calendar"
+  name = "<i class='fas fa-calendar'></i> Calendar"
   url = "#calendar"
   weight = 2
 
 [[menu.main]]
-  name = "Handbook"
+  name = "<i class='fas fa-book-dead'></i> Handbook"
   url = "/handbook/"
   weight = 3
 
 [[menu.main]]
-  name = "Join"
+  name = "<i class='fas fa-sign-in'></i> Join"
   url = "/join/"
   weight = 4
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
