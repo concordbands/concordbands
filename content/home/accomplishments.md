@@ -26,7 +26,7 @@ date_format = "2006"
   date_end = "2019-01-01"
   description = """
   <br>
-  
+
   - 2019:
   - 2018: Gold Medal - *Boston Symphony Hall Gold Medal Showcase*
   - 2017: Gold Medal - *Boston Symphony Hall Gold Medal Showcase*
@@ -53,5 +53,19 @@ date_format = "2006"
   title = "Wind Ensemble"
   organization = "Berklee Scholastic Invitational"
   date_start = "2018-01-01"
+
+[[item]]
+  title = "Jazz Bands"
+  organization = "MAJE Junior Festival"
+  date_start = "2016-01-01"
+  date_end = "2019-01-01"
+  description = """
+  <br>
+
+  - 2019:
+  - 2018: Silver Medal - *Jazz A*
+  - 2017: Silver Medals - *Jazz A & Jazz B*
+  - 2016: Bronze Medal
+  """
 
 +++
