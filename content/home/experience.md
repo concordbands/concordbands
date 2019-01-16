@@ -19,25 +19,98 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+<!-- 2019 -->
 [[experience]]
-  company = "2019"
+  title = "6th Grade Concert Band"
+  company = "Medal"
+  location = "MICCA Concert Festival"
   date_start = "2019-01-01"
-  date_end = ""
-  description = """
-  - **6th Grade Concert Band**: _____ Medal, MICCA Concert Festival
-  - **7th & 8th Grade Concert Band**: _____ Medal, MICCA Concert Festival
-  - **Wind Ensemble**: _____ Medal, MICCA Concert Festival
-  - **Jazz Band 'A'**: _____ Medal, MAJE Junior Festival
-  - **Jazz Band 'B'**: _____ Medal, MAJE Junior Festival
-  """
-
 [[experience]]
   title = "7th & 8th Grade Concert Band"
-  company = "MICCA Concert Festival"
-  company_url = "http://miccamusic.org"
-  location = "Chenery MS; Belmont, MA"
+  company = "Medal"
+  location = "MICCA Concert Festival"
   date_start = "2019-01-01"
-  date_end = ""
-  description = ""
+[[experience]]
+  title = "Wind Ensemble"
+  company = "Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2019-01-01"
+[[experience]]
+  title = "Jazz Band A"
+  company = "Medal"
+  location = "MAJE Junior Festival"
+  date_start = "2019-01-01"
+[[experience]]
+  title = "Jazz Band B"
+  company = "Medal"
+  location = "MAJE Junior Festival"
+  date_start = "2019-01-01"
+<!-- 2018 -->
+[[experience]]
+  title = "6th Grade Concert Band"
+  company = "Gold Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2018-01-01"
+  description = "Gold Medal Showcase Performance at Boston Symphony Hall"
+[[experience]]
+  title = "7th & 8th Grade Concert Band"
+  company = "Silver Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2018-01-01"
+[[experience]]
+  title = "Jazz Band A"
+  company = "Silver Medal"
+  location = "MAJE Junior Festival"
+  date_start = "2018-01-01"
+<!-- 2017 -->
+[[experience]]
+  title = "6th Grade Concert Band"
+  company = "Gold Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2017-01-01"
+  description = "Gold Medal Showcase Performance at Boston Symphony Hall"
+[[experience]]
+  title = "7th & 8th Grade Concert Band"
+  company = "Silver Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2017-01-01"
+[[experience]]
+  title = "Jazz Band A"
+  company = "Silver Medal"
+  location = "MAJE Junior Festival"
+  date_start = "2017-01-01"
+[[experience]]
+  title = "Jazz Band B"
+  company = "Silver Medal"
+  location = "MAJE Junior Festival"
+  date_start = "2017-01-01"
+<!-- 2016 -->
+[[experience]]
+  title = "6th Grade Concert Band"
+  company = "Silver Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2016-01-01"
+[[experience]]
+  title = "7th & 8th Grade Concert Band"
+  company = "Silver Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2016-01-01"
+[[experience]]
+  title = "Jazz Band (Mixed Grade)"
+  company = "Bronze Medal"
+  location = "MAJE Junior Festival"
+  date_start = "2016-01-01"
+<!-- 2015 -->
+[[experience]]
+  title = "6th Grade Concert Band"
+  company = "Silver Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2015-01-01"
+[[experience]]
+  title = "7th & 8th Grade Concert Band"
+  company = "Silver Medal"
+  location = "MICCA Concert Festival"
+  date_start = "2015-01-01"
+<!-- 2014 -->
 
 +++
