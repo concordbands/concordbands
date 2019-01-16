@@ -290,10 +290,10 @@ enableGitInfo = true
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "<i class='fas fa-newspaper'></i> News"
-  url = "#news"
-  weight = 2
+#[[menu.main]]
+#  name = "<i class='fas fa-newspaper'></i> News"
+#  url = "#news"
+#  weight = 2
 
 [[menu.main]]
   name = "<i class='fas fa-calendar'></i> Calendar"
@@ -305,10 +305,10 @@ enableGitInfo = true
   url = "/handbook/"
   weight = 4
 
-[[menu.main]]
-  name = "<i class='fas fa-trophy'></i> Awards & Recognition"
-  url = "#awards"
-  weight = 5
+#[[menu.main]]
+#  name = "<i class='fas fa-trophy'></i> Awards & Recognition"
+#  url = "#awards"
+#  weight = 5
 
 [[menu.main]]
   name = "<i class='fas fa-user-plus'></i> Join"
