@@ -291,19 +291,29 @@ enableGitInfo = true
   weight = 1
 
 [[menu.main]]
+  name = "<i class='fas fa-newspaper'></i> News"
+  url = "#news"
+  weight = 2
+
+[[menu.main]]
   name = "<i class='fas fa-calendar'></i> Calendar"
   url = "#calendar"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "<i class='fas fa-book'></i> Handbook"
   url = "/handbook/"
-  weight = 3
+  weight = 4
+
+[[menu.main]]
+  name = "<i class='fas fa-trophy'></i> Awards & Recognition"
+  url = "#awards"
+  weight = 5
 
 [[menu.main]]
   name = "<i class='fas fa-user-plus'></i> Join"
   url = "/join/"
-  weight = 4
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -1,6 +1,6 @@
 +++
 title = "Concord-Carlisle Elementary Honor Band"
-subtitle = "Information and audition music is now available :notes:"
+subtitle = "Information and audition music is now available"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Elementary", "Opportunities", "News"]
-summary = "Information and audition music is now available :notes:"
+summary = "Information and audition music is now available"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
