@@ -296,12 +296,12 @@ enableGitInfo = true
   weight = 2
 
 [[menu.main]]
-  name = "<i class='fas fa-book-dead'></i> Handbook"
+  name = "<i class='fas fa-book'></i> Handbook"
   url = "/handbook/"
   weight = 3
 
 [[menu.main]]
-  name = "<i class='fas fa-sign-in'></i> Join"
+  name = "<i class='fas fa-sign-in-alt'></i> Join"
   url = "/join/"
   weight = 4
 
