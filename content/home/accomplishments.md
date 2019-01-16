@@ -4,7 +4,7 @@ widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Awards"
-subtitle = "and Recognition"
+subtitle = "...and Recognition"
 
 # Order that this section will appear in.
 weight = 15
@@ -20,21 +20,34 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Gold Medal Recipient"
+  title = "6th Grade Concert Band"
   organization = "MICCA Concert Festival"
-  date_start = "2018-01-01"
-  description = "6th Grade Concert Band"
+  date_start = "2015-01-01"
+  date_end = "2019-01-01"
+  description = """
+  - 2019:
+  - 2018: Gold Medal - *Boston Symphony Hall Gold Medal Showcase*
+  - 2017: Gold Medal - *Boston Symphony Hall Gold Medal Showcase*
+  - 2016: Silver Medal
+  - 2015: Silver Medal
+  """
 
 [[item]]
-  title = "Berklee Scholastic Music Invitational"
-  organization = "Berklee College of Music"
-  date_start = "2018-01-01"
-  description = "CMS Wind Ensemble"
+  title = "7th & 8th Grade Concert Band"
+  organization = "MICCA Concert Festival"
+  date_start = "2015-01-01"
+  date_end = "2019-01-01"
+  description = """
+  - 2019:
+  - 2018: Silver Medal
+  - 2017: Silver Medal
+  - 2016: Silver Medal
+  - 2015: Silver Medal
+  """
 
 [[item]]
-title = "Gold Medal Recipient"
-organization = "MICCA Concert Festival"
-date_start = "2017-01-01"
-description = "6th Grade Concert Band"
+  title = "Wind Ensemble"
+  organization = "Berklee Scholastic Invitational"
+  date_start = "2018-01-01"
 
 +++
