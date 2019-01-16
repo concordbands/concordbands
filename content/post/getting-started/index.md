@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = [""]
+tags = ["Post"]
 summary = "Information and audition music is now available :notes:"
 
 # Projects (optional).
