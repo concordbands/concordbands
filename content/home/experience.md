@@ -19,7 +19,7 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-<!-- 2019 -->
+# 2019
 [[experience]]
   title = "6th Grade Concert Band"
   company = "Medal"
@@ -45,7 +45,7 @@ date_format = "2006"
   company = "Medal"
   location = "MAJE Junior Festival"
   date_start = "2019-01-01"
-<!-- 2018 -->
+# 2018
 [[experience]]
   title = "6th Grade Concert Band"
   company = "Gold Medal"
@@ -62,7 +62,7 @@ date_format = "2006"
   company = "Silver Medal"
   location = "MAJE Junior Festival"
   date_start = "2018-01-01"
-<!-- 2017 -->
+# 2017
 [[experience]]
   title = "6th Grade Concert Band"
   company = "Gold Medal"
@@ -84,7 +84,7 @@ date_format = "2006"
   company = "Silver Medal"
   location = "MAJE Junior Festival"
   date_start = "2017-01-01"
-<!-- 2016 -->
+# 2016
 [[experience]]
   title = "6th Grade Concert Band"
   company = "Silver Medal"
@@ -100,7 +100,7 @@ date_format = "2006"
   company = "Bronze Medal"
   location = "MAJE Junior Festival"
   date_start = "2016-01-01"
-<!-- 2015 -->
+# 2015
 [[experience]]
   title = "6th Grade Concert Band"
   company = "Silver Medal"
@@ -111,6 +111,5 @@ date_format = "2006"
   company = "Silver Medal"
   location = "MICCA Concert Festival"
   date_start = "2015-01-01"
-<!-- 2014 -->
 
 +++
