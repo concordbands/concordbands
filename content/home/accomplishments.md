@@ -25,7 +25,7 @@ date_format = "2006"
   date_start = "2015-01-01"
   date_end = "2019-01-01"
   description = """
-
+  \\
   - 2019:
   - 2018: Gold Medal - *Boston Symphony Hall Gold Medal Showcase*
   - 2017: Gold Medal - *Boston Symphony Hall Gold Medal Showcase*
@@ -39,7 +39,7 @@ date_format = "2006"
   date_start = "2015-01-01"
   date_end = "2019-01-01"
   description = """
-  
+  \\
   - 2019:
   - 2018: Silver Medal
   - 2017: Silver Medal
