@@ -1,7 +1,7 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
-<!-- About widget -->
+<!-- Bio widget -->
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if $page.Params.email }}person-email{{ end }}{{ if $page.Params.phone }} person-telephone{{ end }}{{ if $page.Params.address}} person-address{{ end }}">
   <div class="col-12 col-lg-4">
     <div id="profile">
