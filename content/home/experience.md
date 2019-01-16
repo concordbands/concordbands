@@ -18,28 +18,23 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "6th Grade Concert Band"
+  company = "MICCA Concert Festival"
+  company_url = "http://miccamusic.org"
+  location = "King Philip Reg. HS; Wrentham, MA"
+  date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "7th & 8th Grade Concert Band"
+  company = "MICCA Concert Festival"
+  company_url = "http://miccamusic.org"
+  location = "Chenery MS; Belmont, MA"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = ""
 
 +++
