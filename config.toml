@@ -286,7 +286,7 @@ enableGitInfo = true
   align_right = false
 
 [[menu.main]]
-  name = "Home"
+  name = "<i class="fas fa-home"></i>Home"
   url = "#about"
   weight = 1
 
