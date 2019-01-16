@@ -40,7 +40,7 @@ date_format = "2006"
 #2017-18
 [[experience]]
     date_start = "2017-01-01"
-    date_end = 2018-01-01"
+    date_end = "2018-01-01"
     description = """<br>
 
   ###MICCA Concert Festival###
@@ -57,7 +57,7 @@ date_format = "2006"
 #2016-17
 [[experience]]
     date_start = "2016-01-01"
-    date_end = 2017-01-01"
+    date_end = "2017-01-01"
     description = """<br>
 
   ###MICCA Concert Festival###
@@ -72,7 +72,7 @@ date_format = "2006"
 #2015-16
 [[experience]]
     date_start = "2015-01-01"
-    date_end = 2016-01-01"
+    date_end = "2016-01-01"
     description = """<br>
 
   ###MICCA Concert Festival###
@@ -89,7 +89,7 @@ date_format = "2006"
 #2014-15
 [[experience]]
     date_start = "2014-01-01"
-    date_end = 2015-01-01"
+    date_end = "2015-01-01"
     description = """<br>
 
   ###MICCA Concert Festival###
