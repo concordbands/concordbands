@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "6th Grade Concert Band"
+  title = "2018-2019 School Year"
   company = "MICCA Concert Festival"
   company_url = "http://miccamusic.org"
   location = "King Philip Reg. HS; Wrentham, MA"
