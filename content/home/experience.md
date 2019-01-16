@@ -24,12 +24,12 @@ date_format = "2006"
   date_start = "2018-01-01"
   description = """<br>
 
-  ###MICCA Concert Festival###
+  **MICCA Concert Festival**
   - 6th Grade Concert Band
   - 7th & 8th Grade Concert Band
   - Wind Ensemble
 
-  ###MAJE Junior Festival###
+  **MAJE Junior Festival**
   - Jazz Band A
   - Jazz Band B
 
@@ -43,11 +43,11 @@ date_format = "2006"
     date_end = "2018-01-01"
     description = """<br>
 
-  ###MICCA Concert Festival###
+  **MICCA Concert Festival**
   - 6th Grade Concert Band: Gold Medal - *Showcase Performance at Boston Symphony Hall*
   - 7th & 8th Grade Concert Band: Silver Medal
 
-  ###MAJE Junior Festival###
+  **MAJE Junior Festival**
   - Jazz Band A: Silver Medal
 
   <hr>
@@ -60,11 +60,11 @@ date_format = "2006"
     date_end = "2017-01-01"
     description = """<br>
 
-  ###MICCA Concert Festival###
+  **MICCA Concert Festival**
   - 6th Grade Concert Band: Gold Medal - *Showcase Performance at Boston Symphony Hall*
   - 7th & 8th Grade Concert Band: Silver Medal
 
-  ###MAJE Junior Festival###
+  **MAJE Junior Festival**
   - Jazz Band A: Silver Medal
   - Jazz Band B: Silver Medal
   """
@@ -75,11 +75,11 @@ date_format = "2006"
     date_end = "2016-01-01"
     description = """<br>
 
-  ###MICCA Concert Festival###
+  **MICCA Concert Festival**
   - 6th Grade Concert Band: Silver Medal
   - 7th & 8th Grade Concert Band: Silver Medal
 
-  ###MAJE Junior Festival###
+  **MAJE Junior Festival**
   - Jazz Band A: Bronze Medal
 
   <hr>
@@ -92,7 +92,7 @@ date_format = "2006"
     date_end = "2015-01-01"
     description = """<br>
 
-  ###MICCA Concert Festival###
+  **MICCA Concert Festival**
   - 6th Grade Concert Band: Silver Medal
   - 7th & 8th Grade Concert Band: Silver Medal
   """
