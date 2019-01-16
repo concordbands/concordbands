@@ -20,13 +20,15 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "2018-2019 School Year"
-  company = "MICCA Concert Festival"
-  company_url = "http://miccamusic.org"
-  location = "King Philip Reg. HS; Wrentham, MA"
   date_start = "2019-01-01"
   date_end = ""
-  description = ""
+  description = """
+  - **6th Grade Concert Band**: _____ Medal, MICCA Concert Festival
+  - **7th & 8th Grade Concert Band**: _____ Medal, MICCA Concert Festival
+  - **Wind Ensemble**: _____ Medal, MICCA Concert Festival
+  - **Jazz Band 'A'**: _____ Medal, MAJE Junior Festival
+  - **Jazz Band 'B'**: _____ Medal, MAJE Junior Festival
+  """
 
 [[experience]]
   title = "7th & 8th Grade Concert Band"
