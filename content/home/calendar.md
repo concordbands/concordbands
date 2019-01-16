@@ -7,7 +7,7 @@ date = 2016-04-20T00:00:00
 #subtitle = "2018-2019 School Year"
 
 # Order that this section will appear in.
-weight = 4
+weight = 3
 widget = "custom"
 
 +++

@@ -3,11 +3,11 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Awards & Recognition"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 4
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -24,9 +24,9 @@ date_format = "2006"
   date_start = "2018-01-01"
   description = """<br>
 
-  **MICCA Concert Festival**  6th Grade Concert Band; 7th & 8th Grade Concert Band; Wind Ensemble
+  **MICCA Concert Festival**  6th Grade Concert Band: TBD; 7th & 8th Grade Concert Band: TBD; Wind Ensemble: TBD
 
-  **MAJE Junior Festival**  Jazz Band A; Jazz Band B
+  **MAJE Junior Festival**  Jazz Band A: TBD; Jazz Band B: TBD
 
   <hr>
   *Recognition & Highlights*  Wind Ensemble NYC Performance Trip (performance at Lincoln Center Plaza, workshop w/ Dr. Peter Boonshaft), Jazz Night Guest Artist: George Murphy, Elementary Honor Band Conductor: TBD
