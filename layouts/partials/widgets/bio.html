@@ -6,15 +6,15 @@
   <div class="col-12 col-lg-4">
     <div id="profile">
 
-      {{ if .gravatar }}
-      <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 .email }}?s=200')" itemprop="image" alt="Avatar">
-      {{ else if .avatar }}
-      <img class="portrait" src="{{ (printf "./%s" .avatar) | relURL }}" itemprop="image" alt="Avatar">
+      {{ if $.Site.Params.gravatar }}
+      <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $page.Params.email }}?s=200')" itemprop="image" alt="Avatar">
+      {{ else if $page.Params.avatar }}
+      <img class="portrait" src="{{ (printf "./%s" $page.Params.avatar) | relURL }}" itemprop="image" alt="Avatar">
       {{ end }}
 
       <div class="portrait-title">
-        <h2 itemprop="name">{{ .name }}</h2>
-        {{ with .role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
+        <h2 itemprop="name">{{ $page.Params.name }}</h2>
+        {{ with $page.Params.role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
 
         {{/* Support legacy `organization` option. */}}
         {{ if $page.Params.organization }}
