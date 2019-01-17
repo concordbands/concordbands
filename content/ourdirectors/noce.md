@@ -2,7 +2,7 @@
 active = true
 date = "2016-04-20T00:00:00.000+00:00"
 weight = 1
-widget = "bio"
+widget = "about"
 
 [params]
   # Personal Info
