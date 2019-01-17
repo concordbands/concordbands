@@ -21,14 +21,11 @@ Band in Concord is a traditional, scholastic concert band consisting of woodwind
 
 *Please note: drum set, guitar and piano are not part of the curricular bands in Concord.*
 
-You can learn more about Elementary Band in Concord in our [Elementary Band Survival Guide](link). **There will be a brief, yet very important orientation for band families at the end of August (date TBD).**
+You can learn more about Elementary Band in Concord in our [Elementary Band Survival Guide](#). **There will be a brief, yet very important orientation for band families at the end of August (date TBD).**
 
 We urge you to visit [Be Part of the Band](http://www.bepartoftheband.com/), where you can learn more about all of the instruments as well as view testimonials from first year band [students](http://vimeo.com/81813279) and their [parents](http://vimeo.com/81819035) (these are not Concord families, however).
 
-<video width="320" height="240" controls="controls">
-<source src="instrumentdemos.mp4" type="video/mp4" />
-<a href="instrumentdemos.mp4" title="Instrument Demonstrations">Instrument Demonstrations</a>
-</video>
+{{< vimeo 81811263>}}
 
 Registration for elementary instrumental music is open! If you have not registered your child for band, please use the form below (or linked [here](https://goo.gl/forms/SuCJLWAcDqelOeO03) to do so as soon as possible. Band begins the very first week of school!
 

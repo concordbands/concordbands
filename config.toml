@@ -286,47 +286,47 @@ enableGitInfo = true
   align_right = true
 
 [[menu.main]]
-  name = "<i class='fas fa-home'> </i> Home"
+  name = "<i class='fas fa-home'></i>Home"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "<i class='fas fa-newspaper'> </i> News"
+  name = "<i class='fas fa-newspaper'></i> News"
   url = "#news"
   weight = 2
 
 [[menu.main]]
-  name = "<i class='fas fa-calendar'> </i> Calendar"
+  name = "<i class='fas fa-calendar'></i> Calendar"
   url = "#calendar"
   weight = 3
 
 [[menu.main]]
-  name = "<i class='fas fa-book'> </i> Handbook"
+  name = "<i class='fas fa-book'></i> Handbook"
   url = "/handbook/"
   weight = 4
 
 [[menu.main]]
-  name = "<i class='fas fa-info'> </i> About"
+  name = "<i class='fas fa-info'></i> About"
   url = "#ourprogram"
   weight = 5
   [[menu.main]]
-    parent = "<i class='fas fa-info'> </i> About"
-    name = "<i class='fas fa-music'> </i> Our Program"
+    parent = "<i class='fas fa-info'></i> About"
+    name = "<i class='fas fa-music'></i> Our Program"
     url = "#ourprogram"
     weight = 1
   [[menu.main]]
-    parent = "<i class='fas fa-info'> </i> About"
-    name = "<i class='fas fa-magic'> </i> Our Directors"
+    parent = "<i class='fas fa-info'></i> About"
+    name = "<i class='fas fa-magic'></i> Our Directors"
     url = "#ourdirectors"
     weight = 2
   [[menu.main]]
-    parent = "<i class='fas fa-info'> </i> About"
-    name = "<i class='fas fa-award'> </i> Awards & Recognition"
+    parent = "<i class='fas fa-info'></i> About"
+    name = "<i class='fas fa-award'></i> Awards & Recognition"
     url = "#awards"
     weight = 3
 
 [[menu.main]]
-  name = "<i class='fas fa-user-plus'> </i> Join"
+  name = "<i class='fas fa-user-plus'></i> Join"
   url = "/join/"
   weight = 6
 
