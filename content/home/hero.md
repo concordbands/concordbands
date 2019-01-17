@@ -25,5 +25,5 @@ weight = 1
 +++
 
 <div align="center">
-  ![Concord Bands Logo](/img/logo.png)
-</p>
+  <img alt="Concord Bands Logo" src="/img/logo.png" width="50%">
+</div>
