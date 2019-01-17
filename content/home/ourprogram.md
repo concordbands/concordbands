@@ -14,7 +14,7 @@ widget = "custom"
 
 The Concord Public School Band Program consists of bands at [Concord Middle School](http://cms.concordps.org/) and all three elementary schools: [Alcott](http://alcott.concordps.org), [Thoreau](http://thoreau.concordps.org) and [Willard](http://willard.concordps.org). Students may participate in curricular bands starting in the fourth grade. At the middle school, honors ensembles are offered to all students.
 
-For information on the other music offerings at Concord Middle School, [click here]([)http://concordmiddleschoolmusic.weebly.com).
+For information on the other music offerings at Concord Middle School, [click here](http://concordmiddleschoolmusic.weebly.com).
 
 Band is available to all students in Concord once they enter the fourth grade. Registration takes place at the end of the year each year (for example, to participate in band in fourth grade, students register at the end of third grade). Registration is available [here](/join/).
 
