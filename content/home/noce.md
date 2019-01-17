@@ -6,9 +6,9 @@ widget = "bio"
 
 [params]
   # Personal Info
-    name = "Christopher Noce"
-    role = "Band Director"
-    organizations = [ { name = "Concord Band", url = "http://concordbands.org" }, { name = "Concord Public Schools", url = "http://concordps.org" }]
+  name = "Christopher Noce"
+  role = "Band Director"
+  organizations = [ { name = "Concord Band", url = "http://concordbands.org" }, { name = "Concord Public Schools", url = "http://concordps.org" }]
 
   # Headshot
     gravatar = true  # Get your avatar from Gravatar.com? (true/false)
