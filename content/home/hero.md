@@ -1,18 +1,18 @@
 +++
 # Hero widget.
 widget = "hero"
-active = false
+active = true
 date = 2017-10-15T00:00:00
 
 title = ""
 
 # Order that this section will appear in.
-weight = 1
+weight = 1000
 
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = ""  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -24,6 +24,8 @@ weight = 1
   #label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-<div align="center">
-  <img alt="Concord Bands Logo" src="/img/logo_color.png" width="50%">
-</div>
+### Concord Bands
+Christopher Noce & Paul Halpainy, *Directors*
+
+835 Old Marlboro Road
+Concord, MA 01742
