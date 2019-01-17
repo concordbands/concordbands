@@ -20,7 +20,7 @@ widget = "bio"
 [[params.social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:cnoce@concordps.org".
+  link = "mailto:cnoce@concordps.org"
 
 [[params.social]]
   icon = "twitter"
