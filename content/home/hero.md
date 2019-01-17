@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Concord Bands"
+title = ""
 
 # Order that this section will appear in.
 weight = 1
@@ -23,3 +23,5 @@ weight = 1
   #url = "./post/getting-started/"
   #label = '<i class="fas fa-download"></i> Install Now'
 +++
+
+![Concord Bands Logo](/img/logo.jpg)
