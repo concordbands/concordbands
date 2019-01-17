@@ -25,9 +25,7 @@ You can learn more about Elementary Band in Concord in our [Elementary Band Surv
 
 We urge you to visit [Be Part of the Band](http://www.bepartoftheband.com/), where you can learn more about all of the instruments as well as view testimonials from first year band [students](http://vimeo.com/81813279) and their [parents](http://vimeo.com/81819035) (these are not Concord families, however).
 
-  
-{{< vimeo 81811263>}}
-
+{{< vimeo 81811263>}} <br>
 
 Registration for elementary instrumental music is open! If you have not registered your child for band, please use the form below (or linked [here](https://goo.gl/forms/SuCJLWAcDqelOeO03) to do so as soon as possible. Band begins the very first week of school!
 
