@@ -4,7 +4,7 @@ date = "2016-04-20T00:00:00.000+00:00"
 weight = 100
 widget = "bio"
 
-[[params]]
+[[Params]]
   # Personal Info
   name = "Christopher Noce"
   role = "Band Director"
