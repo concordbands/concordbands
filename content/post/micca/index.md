@@ -24,7 +24,7 @@ summary = "Dates are set - get your survival guide today"
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/6DBZqMe2c5U)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

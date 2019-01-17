@@ -24,7 +24,7 @@ summary = "Information and audition music is now available"
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/9HkBtMf_3TU)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
