@@ -7,7 +7,7 @@ title = "About Our Directors"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 5
+weight = 6
 widget = "custom"
 
 +++
