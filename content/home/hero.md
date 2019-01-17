@@ -24,4 +24,6 @@ weight = 1
   #label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-<p align="center">![Concord Bands Logo](/img/logo.png)</p>
+<p align="center">
+  ![Concord Bands Logo](/img/logo.png)
+</p>
