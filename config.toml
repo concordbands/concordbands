@@ -296,7 +296,7 @@ enableGitInfo = true
   weight = 2
 
 [[menu.main]]
-  name = "<i class='fas fa-calendar'></i> Calendar"
+  name = "<i class='fas fa-calendar-alt'></i> Calendar"
   url = "#calendar"
   weight = 3
 
