@@ -12,6 +12,7 @@ widget = "custom"
 
 +++
 
+<div id='calendar'>
 <script>
 $(function() {
 
@@ -23,5 +24,4 @@ $(function() {
 
 });
 </script>
-
-<div id='calendar'></div>
+</div>
