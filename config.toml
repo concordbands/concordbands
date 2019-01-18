@@ -178,8 +178,8 @@ enableGitInfo = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["custom.css"]
-  custom_js  = ["custom.js","other.js"]
+  custom_css = ["custom.css","fullcalendar.css"]
+  custom_js  = ["custom.js","moment.min.js","jquery.min.js","fullcalendar.js","calendar.js"]
 
   # Publication types.
   #   Used to categorize publications.
