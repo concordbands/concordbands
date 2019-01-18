@@ -23,4 +23,4 @@ weight = 10000
 
 This is accompanying text for the calendar.
 
-<div id="calendar"></div>
+<div id="foobar"></div>

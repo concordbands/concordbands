@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  $('#calendar').fullCalendar({
+  $('#foobar').fullCalendar({
     defaultDate: '2019-01-12',
     editable: true,
     eventLimit: true, // allow "more" link when too many events
