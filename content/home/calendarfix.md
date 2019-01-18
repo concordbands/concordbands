@@ -9,7 +9,7 @@ title = "Calendar"
 weight = 10000
 
 [header]
-  # overlay_color = ""  # An HTML color value.
+  overlay_color = "#333"  # An HTML color value.
   # overlay_img = ""  # Image path relative to your `static/img/` folder.
   # overlay_filter =   # Darken the image. Value in range 0-1.
 

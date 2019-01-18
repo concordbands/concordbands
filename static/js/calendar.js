@@ -1,6 +1,4 @@
-<script type='text/javascript'>
-
-$(function() {
+$(document).ready(function() {
   $('#foobar').fullCalendar({
     googleCalendarApiKey: 'AIzaSyBuz_RmLdI8S4TV-1JJXVpiyRuLqRUinZk',
     eventSources: [
@@ -27,5 +25,3 @@ $(function() {
     ]
   });
 });
-
-</script>
