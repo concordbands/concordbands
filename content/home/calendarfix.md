@@ -13,4 +13,4 @@ weight = 10000
 
 +++
 
-<iframe src="https://concordbands.netlify.com/fullcalendar/demos/default"></iframe>
+<object src="https://concordbands.netlify.com/fullcalendar/demos/default"></object>
