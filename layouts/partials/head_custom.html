@@ -3,14 +3,18 @@
 <script src='/js/moment.min.js'></script>
 <script src='/js/fullcalendar.js'></script>
 
-<script>
+<script type='text/javascript'>
+
 $(function() {
-
-  // page is now ready, initialize the calendar...
-
   $('#calendar').fullCalendar({
-    // put your options and callbacks here
-  })
-
+    googleCalendarApiKey: 'AIzaSyBuz_RmLdI8S4TV-1JJXVpiyRuLqRUinZk',
+    events: [
+      {
+        googleCalendarId: 'concordps.org_classroom60624685@group.calendar.google.com', // 7th & 8th
+        className: '78'
+      }
+    ]
+  });
 });
+
 </script>
