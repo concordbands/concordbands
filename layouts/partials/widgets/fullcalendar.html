@@ -29,12 +29,12 @@ url('{{ $overlay_img }}')
     <p class="hero-lead">{{ . | markdownify }}</p>
     {{ end }}
 
-    <div id="calendar"></div>
-    
     {{ if $page.Params.cta.url }}
     <p><a href="{{ $page.Params.cta.url }}" class="btn btn-outline-light btn-lg">{{ $page.Params.cta.label | safeHTML}}</a></p>
     {{ end }}
 
   </div>
+
+  <div id="calendar"></div>
 
 </section>
