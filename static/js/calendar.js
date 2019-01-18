@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $('#foobar').fullCalendar({
-    googleCalendarApiKey: 'AIzaSyBNlYH01_9Hc5S1J9vuFmu2nUqBZJNAXxs',
+    googleCalendarApiKey: 'AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ',
     eventSources: [
       {
         googleCalendarId: 'concordps.org_classroom6880af80@group.calendar.google.com',
@@ -25,3 +25,6 @@ $(document).ready(function() {
     ]
   });
 });
+
+// AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ
+// AIzaSyBNlYH01_9Hc5S1J9vuFmu2nUqBZJNAXxs
