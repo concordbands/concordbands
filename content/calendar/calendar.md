@@ -12,4 +12,4 @@ widget = "custom"
 
 +++
 
-<div id="embedcalendar"></div>
+<div id="calendar"></div>
