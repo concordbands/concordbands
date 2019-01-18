@@ -13,4 +13,4 @@ weight = 10000
 
 +++
 
-<div id="calendar"></div>
+<div id='calendar'></div>
