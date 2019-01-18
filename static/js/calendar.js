@@ -3,8 +3,8 @@ $(document).ready(function() {
     googleCalendarApiKey: 'AIzaSyBuz_RmLdI8S4TV-1JJXVpiyRuLqRUinZk',
     eventSources: [
       {
-        googleCalendarId: 'concordps.org_classroom6880af80@group.calendar.google.com',
-        className: '6band'
+        googleCalendarId: 'concordps.org_classroom6880af80@group.calendar.google.com'//,
+        //className: '6band'
       },
       {
         googleCalendarId: 'concordps.org_classroom60624685@group.calendar.google.com',
