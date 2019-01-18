@@ -10,6 +10,9 @@ date = 2016-04-20T00:00:00
 weight = 4
 widget = "hero"
 
+[header]
+  overlay_color = "#666"  # An HTML color value.
+
 +++
 
 <div id="calendar"></div>
