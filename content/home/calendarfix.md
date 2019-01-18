@@ -9,9 +9,9 @@ title = "Calendar"
 weight = 10000
 
 [header]
-  overlay_color = "#333"  # An HTML color value.
-  # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_color = ""  # An HTML color value.
+  # overlay_img = ""  # Image path relative to your `static/img/` folder.
+  # overlay_filter =   # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
