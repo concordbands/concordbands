@@ -31,28 +31,11 @@ UID:0ah47fvtfd7gtvaa8g2aq102ti@google.com
 CREATED:20180829T160601Z
 DESCRIPTION:
 LAST-MODIFIED:20180829T160650Z
-LOCATION:Lincoln-Sudbury Regional High School\, 390 Lincoln Rd\, Sudbury\, 
+LOCATION:Lincoln-Sudbury Regional High School\, 390 Lincoln Rd\, Sudbury\,
  MA 01776\, USA
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Junior Festival Dress Rehearsal\, Concert
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20190102T143000
-DTEND;TZID=America/New_York:20190102T153000
-EXDATE;TZID=America/New_York:20190220T143000
-RRULE:FREQ=WEEKLY;UNTIL=20190227T045959Z;BYDAY=WE
-EXDATE;TZID=America/New_York:20190102T143000
-DTSTAMP:20190124T030425Z
-UID:23esus4vu596cfd5pbnkaf38eq@google.com
-CREATED:20180829T160601Z
-DESCRIPTION:
-LAST-MODIFIED:20180829T160650Z
-LOCATION:
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:MICCA Sectional (Instrument/Group TBD)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -212,7 +195,7 @@ UID:7otrfn5rou9tjval8091hej2br@google.com
 CREATED:20180829T160601Z
 DESCRIPTION:
 LAST-MODIFIED:20180829T160650Z
-LOCATION:Lincoln-Sudbury Regional High School\, 390 Lincoln Rd\, Sudbury\, 
+LOCATION:Lincoln-Sudbury Regional High School\, 390 Lincoln Rd\, Sudbury\,
  MA 01776\, USA
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -343,7 +326,7 @@ DTEND;VALUE=DATE:20180928
 DTSTAMP:20190124T030425Z
 UID:9e4cb809f07093275671c8bf215d3202@google.com
 CREATED:20180911T125105Z
-DESCRIPTION:For Thursday\, September 27 (B Day) you must have all required 
+DESCRIPTION:For Thursday\, September 27 (B Day) you must have all required
  materials for band at rehearsal.  Please check our handbook for a full list
   of required materials. http://classroom.google.com/c/MTYyNzAwNzYyNzFa/a/MT
  c3NjczODcxNjha/details
@@ -373,7 +356,7 @@ DESCRIPTION:All students must submit two of the following options - you may
   submit more for extra credit:\n\n1. Theme from Green Bushes\n2. Concord Hy
  mn\n3. Major Scales up to 3 sharps and 3 flats and Chromatic (i.e. Jr. Dist
  rict Scale Sheet)\n4. Any etude from our Sound Innovations Book\n5. A 16 me
- asure excerpt of your Junior District Audition piece\n\nSubmissions may be 
+ asure excerpt of your Junior District Audition piece\n\nSubmissions may be
  done in person (by appointment) or submitted as an audio and/or video recor
  ding. Each item must be in it's own file - for example\, File #1: Green Bus
  hes\, File #2 Etude from SI. Do not submit one file with multiple items - f
@@ -402,7 +385,7 @@ DTSTAMP:20190124T030425Z
 UID:9c073623dfc12eaf72f2a3529881dccf@google.com
 CREATED:20181005T165435Z
 DESCRIPTION:Imagine it's June\, 2019. What did we achieve this year? How di
- d we do it? Write a reflection on our school year FROM THE FUTURE (whoa!). 
+ d we do it? Write a reflection on our school year FROM THE FUTURE (whoa!).
  Use the attached document as a template. http://classroom.google.com/c/MTYy
  NzAwNzYyNzFa/a/MTg0NjM0ODY1NTVa/details
 LAST-MODIFIED:20181011T164059Z
