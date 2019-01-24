@@ -1,5 +1,5 @@
 ics_sources = [
-    {url:'https://calendar.google.com/calendar/ical/concordps.org_classroom6880af80%40group.calendar.google.com/public/basic.ics',event_properties:{color:'red'}},
+    {url:'https://calendar.google.com/calendar/ical/concordps.org_classroom6880af80%40group.calendar.google.com/public/basic.ics'},
     {url:'https://calendar.google.com/calendar/ical/concordps.org_classroom60624685%40group.calendar.google.com/public/basic.ics',event_properties:{color:'orange'}},
     {url:'https://calendar.google.com/calendar/ical/concordps.org_nbu2m6begv8r25refgt02umj1c%40group.calendar.google.com/public/basic.ics',event_properties:{color:'yellow'}},
     {url:'https://calendar.google.com/calendar/ical/concordps.org_classroomfa6b71ca%40group.calendar.google.com/public/basic.ics',event_properties:{color:'green'}},
