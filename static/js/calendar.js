@@ -1,9 +1,9 @@
 ics_sources = [
-    {url:'calendars/6.ics',event_properties:{color:'red'}},
-    {url:'calendars/78.ics',event_properties:{color:'orange'}},
-    {url:'calendars/elem.ics',event_properties:{color:'yellow'}},
-    {url:'calendars/jazz.ics',event_properties:{color:'green'}},
-    {url:'calendars/windens.ics',event_properties:{color:'blue'}},
+    {url:'calendars/6.ics',event_properties:{color:'#9ccc65'}},
+    {url:'calendars/78.ics',event_properties:{color:'#66bb6a'}},
+    {url:'calendars/elem.ics',event_properties:{color:'#d4e157'}},
+    {url:'calendars/jazz.ics',event_properties:{color:'#64b5f6'}},
+    {url:'calendars/windens.ics',event_properties:{color:'#e57373'}}
 ]
 
 
