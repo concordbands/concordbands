@@ -16,12 +16,12 @@ sections:
   match: "**/*"
 - type: directory
   path: content/home
-  label: Home
+  label: Homepage
   create: all
   match: "**/*"
 - type: directory
   path: content/post
-  label: Post
+  label: Posts
   create: all
   match: "**/*"
 upload_dir: static/uploads
