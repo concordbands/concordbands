@@ -31,10 +31,10 @@ The best way to stay up to date is to subscribe to the [calendar][../#calendar].
 We typically discourage families from purchasing instruments over renting when students are starting out. If you would prefer to purchase an instrument or use a family instrument, please contact either band director so that we may help guide you through the purchase or refurbishment of a band instrument.
 
 For your convenience, here are some local options for instrument rentals:
-* [Leonard's Music](https://leonardsmusic.myshopify.com) - Bedford, MA
-* [David French Music](http://www.davidfrenchmusic.com) - Westborough, MA
-* [The Minor Chord](http://www.theminorchord.com)- Littleton, MA
-* [Music and Arts](http://www.musicarts.com) - Newton, MA
+- [Leonard's Music](https://leonardsmusic.myshopify.com); Bedford, MA
+- [David French Music](http://www.davidfrenchmusic.com); Westborough, MA
+- [The Minor Chord](http://www.theminorchord.com); Littleton, MA
+- [Music and Arts](http://www.musicarts.com); Newton, MA
 
 #### Does my new band student need anything else?
 Every band member needs some additional materials for rehearsals and home practice:
@@ -51,14 +51,14 @@ Every band member needs some additional materials for rehearsals and home practi
 Band begins the first week of school. Students should come to band every week no matter what - even if they don't have their instrument yet, forgot their materials, have a sore throat, are feeling tired, etc..
 
 __4th Grade Band__
-* __Alcott__ - Tuesdays at either 9:00 or 9:45
-* __Thoreau__ - Thursdays at either 9:00 or 9:45
-* __Willard__ - Wednesdays at either 9:00 or 9:45
+- __Alcott__: Tuesdays at either 9:00 or 9:45
+- __Thoreau__: Thursdays at either 9:00 or 9:45
+- __Willard__: Wednesdays at either 9:00 or 9:45
 
 __5th Grade Band__
-* __Alcott__ - Lessons on Fridays at either 9:00 or 9:45 and rehearsal on Tuesdays at 8:00
-* __Thoreau__ - Lessons on Mondays at either 9:00 or 9:45 and rehearsal on Thursdays at 8:00
-* __Willard__ - Lessons on Fridays at either 11:00 or 11:45 and rehearsal on Wednesdays at 8:00
+- __Alcott__: Lessons on Fridays at either 9:00 or 9:45 and rehearsal on Tuesdays at 8:00
+- __Thoreau__: Lessons on Mondays at either 9:00 or 9:45 and rehearsal on Thursdays at 8:00
+- __Willard__: Lessons on Fridays at either 11:00 or 11:45 and rehearsal on Wednesdays at 8:00
 
 #### What happens when there is a delayed start to the school day?
 In the event of a two-hour delay there are no band rehearsals, with the exception of Fridays at Willard. In the event of a one-hour delay, there is no 8AM 5th Grade Band rehearsal and only rehearsals taking place *after* the delay will occur. **This is subject to change and is handled on a building-by-building basis according to the needs of classroom teachers.**
@@ -76,8 +76,8 @@ YES! Thought they are not required, they are highly recommended! In some cases, 
 
 #### I'm curious as to how I can best support my new band student - any advice?
 Absolutely! You may want to read one of the following articles. You can also get involved by "liking" the [Concord Bands on Facebook]([http://www.facebook.com/concordbands).
-* [Learning to Play: Tips for Parents of Elementary Musicians][1]
-* [3 Things Parents Must Tell Their Children When They Begin a Musical Instrument][2]
+- [Learning to Play: Tips for Parents of Elementary Musicians][1]
+- [3 Things Parents Must Tell Their Children When They Begin a Musical Instrument][2]
 
 [1]: http://www.nafme.org/wp-content/files/2015/08/Learning-to-Play-Tips-for-Parents-of-Elementary-Musicians.pdf "Learning to Play"
 [2]: http://www.nafme.org/wp-content/files/2015/08/3-Things-Parents-Must-Tell-Their-Children-When-They-Begin-a-Musical-Instrument.pdf "3 Things"
