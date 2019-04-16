@@ -24,7 +24,7 @@ date_format = "2006"
   date_start = "2018-01-01"
   description = """<br>
 
-  **MICCA Concert Festival**  6th Grade Concert Band: TBD; 7th & 8th Grade Concert Band: TBD; Wind Ensemble: TBD
+  **MICCA Concert Festival**  6th Grade Concert Band: Gold Medal; 7th & 8th Grade Concert Band: Gold Medal
 
   **MAJE Junior Festival**  Jazz Band A: TBD; Jazz Band B: TBD
 
