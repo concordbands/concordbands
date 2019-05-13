@@ -101,7 +101,7 @@ enableGitInfo = true
   # Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   # Choose from `default`, `classic`, or `playfair`.
@@ -279,7 +279,7 @@ enableGitInfo = true
     icon = "soundcloud"
     icon_pack = "fab"
     link = "https://soundcloud.com/concordbands"
-    
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
