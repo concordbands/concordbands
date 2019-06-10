@@ -36,7 +36,7 @@ All middle school students must have the following at every rehearsal:
 - Pencil(s) in pencil case, clipped into binder
 - 6th Grade Concert Band Method Book: “Sound Innovations for Concert Band,” Book 1 (Blue Cover)
   + Students should have the book for their instrument, i.e. Flute, Bb Clarinet, Trumpet, Trombone, Baritone Horn (Euphonium), Combined Percussion etc.
-- 7th/8th Grade Concert Band Method Book: “Sound Innovations for Concert Band: Ensemble Development” (Green Cover)
+- 7th, 8th Grade Concert Band Method Book: “Sound Innovations for Concert Band: Ensemble Development," either the Young Concert Band Edition (Yellow Cover, 7th Grade) or Intermediate Concert Band Edition (Green Cover, 8th Grade)
   + Books are part specific - students should purchase part 1, i.e. Bb Clarinet 1
   + Percussionists may purchase either the Mallet Percussion or Percussion 1 book
 - Standalone Chromatic Tuner - *not a smartphone app, please*
