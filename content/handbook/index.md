@@ -16,4 +16,9 @@ weight = 1
 +++
 
 <html>
+<script type="text/javascript">
+<!--
+window.location = "https://docs.google.com/document/d/1YhDIXPSiBA77s6WPvc18kjwWCrQzDN90N5PhhyJeHLs/edit#heading=h.owfsuf1mc4nl"
+//-->
+</script>
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQGPexlgjc5Z4UF7Qsj7IP4-b2b1yeqboMI4hXh8h9ek_WgEYIyuTCP_z6FJfISNXFoSrVWskNH9GSe/pub?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></html>
