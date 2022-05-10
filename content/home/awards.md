@@ -28,6 +28,7 @@ date_format = "2006"
   description = """<br>
   
   *The Concord Bands survived two years of remote/hybrid learning during the COVID-19 Pandemic!*
+  """
   
 #2018-2019
 [[experience]]
