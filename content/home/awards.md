@@ -20,8 +20,19 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # Current Year
+
+#2019-2020
+[[experience]]
+  date_start = "2019-01-01"
+  date_end = "2021-01-01"
+  description = """<br>
+  
+  *The Concord Bands survived two years of remote/hybrid learning during the COVID-19 Pandemic!*
+  
+#2018-2019
 [[experience]]
   date_start = "2018-01-01"
+  date_end = "2019-01-01"
   description = """<br>
 
   **MICCA Concert Festival**  6th Grade Concert Band: Gold Medal; 7th & 8th Grade Concert Band: Gold Medal
@@ -29,7 +40,7 @@ date_format = "2006"
   **MAJE Junior Festival**  Jazz Band A: TBD; Jazz Band B: TBD
 
   <hr>
-  *Recognition & Highlights*  Wind Ensemble NYC Performance Trip (performance at Lincoln Center Plaza, workshop w/ Dr. Peter Boonshaft), Jazz Night Guest Artist: George Murphy, Elementary Honor Band Conductor: TBD
+  *Recognition & Highlights*  Wind Ensemble NYC Performance Trip (performance at Lincoln Center Plaza, workshop w/ Dr. Peter Boonshaft), Jazz Night Guest Artist: George Murphy, Elementary Honor Band Conductor: Jeff Leonard
   """
 
 #2017-18

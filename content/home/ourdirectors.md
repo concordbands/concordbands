@@ -14,13 +14,11 @@ widget = "custom"
 
 ### Mr. Christopher Noce
 
-Mr. Noce has been with the Concord Public Schools since 2013. Christopher holds a Bachelor's of Music in Music Education from Berklee College of Music (Boston, MA) and a Master's of Music in Music Education from Boston University.
+Christopher Noce has taught bands in Concord, Massachusetts since 2013. Under his direction, the Concord Bands have received numerous accolades from the Massachusetts Instrumental and Choral Conductors’ Association (MICCA), Massachusetts Association for Jazz Education (MAJE) and the Massachusetts Music Educators Association (MMEA). His ensembles have commissioned new works for concert band and performed on some of the region's most iconic stages. The culture and community built within and around the Concord Bands is a major point of focus and pride for the program.
 
-Prior to teaching in Concord, Christopher taught middle school bands in Norwood, MA, Austin, TX and Andover, MA. In addition to ensembles in Concord, Christopher teaches clarinet and saxophone lessons, is a freelance saxophone/woodwind player and composes and performs electronic music.
+Christopher holds a Bachelor’s of Music in Music Education from Berklee College of Music (Boston, MA) and a Master’s of Music in Music Education from Boston University. He is an active member of the National Association for Music Educators (NAfME) and the MMEA, where he has served in several leadership-level positions including Eastern District Chairperson and All-State Concert Coordinator. Christopher maintains an active musical life both on and off the podium as a clinician, conductor, performer and teacher.
 
-Christopher is a member of the Massachusetts Instrumental and Choral Conductors Association (MICCA), the National Association for Music Educators (NAfME) and the Massachusetts Music Educators Association (MMEA).
-
-As an active member of MMEA, Christopher has served the Eastern District as Senior Festival Assistant Manager (2016), Junior Festival Jazz Ensemble Manager (2015) and Assistant Manager (2014). He is currently serving as the organization's Chairperson. On the statewide level, Christopher has served as the All-State Concert Chair (2016) and Assistant Concert Chair (2015).
+Christopher lives in Worcester, Massachusetts with his wife Emma, daughter Margot and son Reuben, where they enjoy all that the metropolis’s second-city status has to offer a young family.
 
 ### Mr. Paul Halpainy
 
