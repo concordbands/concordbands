@@ -303,7 +303,7 @@ enableGitInfo = true
 [[menu.main]]
   name = "<i class='fas fa-newspaper'></i> News"
   url = "#news"
-  weight = 2
+  weight = 0
 
 [[menu.main]]
   name = "<i class='fas fa-calendar'></i> Calendar"
