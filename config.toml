@@ -1,246 +1,390 @@
-baseURL = "https://example.com/"
-languageCode = "en"                                      # website language
-defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
-title = "LoveIt Theme"                                   # website title
-theme = "LoveIt"                                         # theme
-enableGitInfo = false                                    # whether to use git commit log to generate lastmod record
-hasCJKLanguage = false                                   # whether to include chinese/japanese/korean
-paginate = 12                                            # default amount of posts in each pages
-enableEmoji = true                                       # whether to use emoji code
-enableRobotsTXT = true                                   # whether to use robots.txt
-googleAnalytics = ""                                     # [UA-XXXXXXXX-X] google analytics code
-disqusShortname = "dillonzq"                             # Disqus shortname to use Disqus in posts
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-                                                         # copyright description used only for seo schema
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-                                                      #### Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-pygmentsOptions = "linenos=table"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-pygmentsCodefencesGuessSyntax = true
+# The URL of your website.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"
 
-staticDir = ["static", "../assets/others"]               # static directories
+# Title of your site
+title = "Concord Bands"
 
-[author]                                              #### Author Info
-  name = "XXXX"
+# Your copyright notice - appears in site footer.
+# To display a copyright symbol, type `&copy;`.
+copyright = "&copy; 2019"
 
-[sitemap]                                             #### Sitemap Info
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10
 
-[Permalinks]                                          #### Permalinks Info (https://gohugo.io/content-management/urls/#permalinks)
-  posts = ":year/:month/:filename"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
 
-[menu]                                                #### Menu Info
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "posts"
-    weight = 1
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "tags"
-    weight = 2
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
 
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "categories"
-    weight = 3
+# Get last modified date for content from Git?
+enableGitInfo = true
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "about"
-    weight = 4
+[outputs]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
 
-  [[menu.main]]
-    identifier = "zh"
-    name = '<i class="fas fa-language fa-fw"></i>'
-    url = "https://hugo-loveit-zh.netlify.com"
-    weight = 5
+# Configure BlackFriday Markdown rendering.
+# See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
-  version = "5.x"                                        # LoveIt theme version
-  description = "LoveIt Theme Demo"                      # site description
-  keywords = ["XXXX", "Theme", "Hugo"]                   # site keywords
+  # AUTHOR SETUP
 
-                                                      #### Home Page Info
-  home_mode = "post"                                     # [post, other] home mode
-  home_paginate = 6                                      # special amount of posts in each home post page
-  avatar = "images/avatar.png"                           # URL of avatar shown in home page
-  subtitle = "A Clean, Elegant but Advanced Hugo Theme"  # subtitle shown in home page
+  # Your details.
+  # name = "Concord Bands"
+  # role = "Traditional and emerging instrumental music ensembles in Concord, MA."
 
-  socialShare = true                                     # whether to show social share links in post page
+  # Organizations/Affiliations.
+  # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  # organizations = [ { name = "Concord Public Schools", url = "http://concordps.org" } ]
 
-                                                      #### Footer CopyRight Info
-  since = 2018                                           # Site creation time
-  icp = ''                                               # ICP info only in China (HTML format is allowed)
-  license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
-                                                         # license info (HTML format is allowed)
-  gitRepo = ""                                           # public git repo url to link lastmod git commit only then enableGitInfo is true
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "logo.png" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  linkToMarkdown = true                                  # whether to show link to Raw Markdown content of the post
+  # Details for the Contact Widget
+  email = "cnoce@concordps.org, phalpainy@concordps.org"
+  address = "Concord Bands, 835 Old Marlboro Road, Concord, Massachusetts, 01742, USA"
+  # office_hours = ""
 
-                                                      #### site verification code for Google/Bing/Yandex/Pinterest/Baidu
-  google_verification = ""
-  bing_verification = ""
-  yandex_verification = ""
-  pinterest_verification = ""
-  baidu_verification = ""
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  # appointment_url = ""
 
-  [params.cdn]                                       #### CSS and JS Files CDN
-    fontawesome_free_css = ''                           # for example '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.10.1/css/all.min.css" integrity="sha256-fdcFNFiBMrNfWL6OcAGQz6jDgNTRxnrLEd4vJYFWScE=" crossorigin="anonymous">'
-    animate_css = ''
-    gitalk_css = ''
-    gitalk_js = ''
-    valine_js = ''
-    jquery_js = ''
-    lazysizes_js = ''
-    smooth_scroll_js = ''
-    katex_css = ''
-    katex_js = ''
-    katex_auto_render_js = ''
-    mermaid_js = ''
-    echarts_js = ''
-    echarts_macarons_js = ''
-    typeit_js = ''
-    jquery_countdown_js = ''
-    aplayer_css = ''
-    aplayer_js = ''
-    meting_js = ''
+  # Discussion link (e.g. link to a forum, mailing list, or chat).
+  # Uncomment line below to use.
+  # discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  [params.gravatar]                                      # Gravatar Info for preferred avatar in home page
-    email = ""
+  # Enable/disable map in Contact widget.
+  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+  # a map provider below.
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `map = 2`.
+  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  map = 1
+  map_api_key = ""
+  latitude = "42.439774"
+  longitude = "-71.395580"
+  zoom = 15
 
-  [params.social]                                        # Social Info in home page
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
-    #Instagram = "xxxx"
-    #Email = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
-    #Medium = "xxxx"
-    #Gitlab = "xxxx"
-    #Youtubelegacy = "xxxx"
-    #Youtubecustom = "xxxx"
-    #Youtubechannel = "xxxx"
-    #Tumblr ="xxxx"
-    #Quora = "xxxx"
-    #Keybase = "xxxx"
-    #Pinterest = "xxxx"
-    #Reddit = "xxxx"
-    #Codepen = "xxxx"
-    #Bitbucket = "xxxx"
-    #Stackoverflow = "xxxx"
-    #Weibo = "xxxx"
-    #Odnoklassniki = "xxxx"
-    #VKontakte = "xxxx"
-    #Flickr = "xxxx"
-    #Xing = "xxxx"
-    #Snapchat = "xxxx"
-    #Soundcloud = "xxxx"
-    #Spotify = "xxxx"
-    #Bandcamp = "xxxx"
-    #Paypal = "xxxx"
-    #Fivehundredpx = "xxxx"
-    #Mix = "xxxx"
-    #Goodreads = "xxxx"
-    #Lastfm = "xxxx"
-    #Foursquare = "xxxx"
-    #Hackernews = "xxxx"
-    #Kickstarter = "xxxx"
-    #Patreon = "xxxx"
-    #Steam = "xxxx"
-    #Twitch = "xxxx"
-    #Strava = "xxxx"
-    #Skype = "xxxx"
-    #Whatsapp = "xxxx"
-    #Zhihu = "xxxx"
-    #Douban = "xxxx"
-    #Angellist = "xxxx"
-    #Slidershare = "xxxx"
-    #Jsfiddle = "xxxx"
-    #Deviantart = "xxxx"
-    #Behance = "xxxx"
-    #Dribble = "xxxx"
-    #Wordpress = "xxxx"
-    #Vine = "xxxx"
-    #Googlescholar = "xxxx"
-    #Researchgate = "xxxx"
-    #Mastodon = "xxxx"
-    #Thingiverse = "xxxx"
+  # SITE SETUP
 
-  [params.share]                                         # Social Share Links in post page
-    enable = true
-    Twitter = true
-    Facebook = true
-    Reddit = true
-    #Linkedin = true
-    #Pinterest = true
-    #HackerNews = true
-    #Mix = true
-    #Tumblr = true
-    #VKontakte = true
-    #Weibo = true
+  # Color theme.
+  # Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+  color_theme = "default"
+  # Enable users to switch between day and night mode?
+  day_night = false
 
-  [params.publisher]                                     # Publisher Info just for SEO
-    name = "XXXX"
-    [params.publisher.logo]
-      url = "logo.png"
-      width = 127
-      height = 40
+  # Font style.
+  # Choose from `default`, `classic`, or `playfair`.
+  font = "classic"
 
-  [params.logo]                                          # Website Log Info just for SEO
-    url = "logo.png"
-    width = 127
-    height = 40
+  # Description for social sharing and search engines. If undefined, author role is used in place.
+  description = ""
 
-  [params.image]                                         # Website Image Info just for SEO
-    url = "cover.png"
-    width = 800
-    height = 600
+  # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+  sharing_image = ""
 
-  [params.gitalk]                                        # Gittalk Comment Config (https://github.com/gitalk/gitalk)
-    owner = ""
-    repo = ""
-    clientId = ""
-    clientSecret = ""
+  # Twitter username (without @). Used when a vistor shares your site on Twitter.
+  twitter = "concordbands"
 
-  [params.valine]                                        # Valine Comment Config (https://github.com/xCss/Valine)
-    enable = false
-    appId = ""
-    appKey = ""
-    notify = false
-    verify = true
-    avatar = "mp"
-    placeholder = "Your comment ..."
-    visitor = true
-    recordIP = true
+  # Diplay a logo in navigation bar rather than title (optional).
+  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = ""
 
-[privacy]                                             #### Privacy Info (https://gohugo.io/about/hugo-and-gdpr/)
-  [privacy.googleAnalytics]
-    anonymizeIP = true
+  # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Jan 2, 2006"
+  #   Examples: "3:04 pm" or "15:04"
+  time_format = "3:04 PM"
 
-  [privacy.youtube]
-    privacyEnhanced = true
+  # Show estimated reading time for posts?
+  reading_time = true
 
-[mediaTypes]                                          #### Options to make hugo output .md files.
-  [mediaTypes."text/plain"]
-    suffixes = ["md"]
+  # Display comment count? Requires commenting to be enabled.
+  comment_count = false
 
-[outputFormats.MarkDown]                              #### Options to make hugo output .md files.
-  mediaType = "text/plain"
-  isPlainText = true
-  isHTML = false
+  # Display next/previous section pager?
+  section_pager = false
 
-[outputs]                                             #### Options to make hugo output .md files.
-  home = ["HTML", "RSS"]
-  page = ["HTML", "MarkDown"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = false
+
+  # Highlight.js options
+  #   highlight
+  #     Enable global source code highlighting?  If false, you can
+  #     override it for a particular page in that page's preamble.
+  #
+  #     Example: highlight = true
+  #
+  #   highlight_languages
+  #     Add support for highlighting additional languages. Support for
+  #     languages mentioned here will be included in all pages.
+  #
+  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  #
+  #   highlight_style
+  #     Choose a different CSS style for highlighting source
+  #     code. Setting this option in a page's preamble has no
+  #     effect.
+  #
+  #     Example: highlight_style = "github-gist"
+  #
+  #   For the list of supported languages and styles, see:
+  #   https://cdnjs.com/libraries/highlight.js/
+  #
+  #   For more info on the highlighting options, see:
+  #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+  highlight = true
+  highlight_languages = []
+  # highlight_style = "github"
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = false
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = ["custom.css","fullcalendar.css"]
+  custom_js  = ["custom.js","moment.min.js","jquery.min.js","fullcalendar.js","calendar.js","ical.js","ical_events.js","ical_fullcalendar.js"]
+
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+  #   translated.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Award',  # 1
+    'Recognition',  # 2
+    'Grant',  # 3
+    'Commission',  # 4
+  ]
+
+  # Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = true
+
+  # Configuration of publication pages.
+  [params.publications]
+    # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "January, 2006"
+
+  # Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+
+    # Post list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    post_format = 2
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    #   4 = Stream
+    publication_format = 4
+
+    # Talk list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    talk_format = 2
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fab" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fas" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fontawesome.com/icons
+  #
+  # Icon pack "ai" includes the following academic icons:
+  #
+  #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:cnoce@concordps.org,phalpainy@concordps.org"  # For a direct email link, use "mailto:test@example.org".
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/concordbands"
+
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "https://facebook.com/concordbands"
+
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "https://instagram.com/concordbands"
+
+  [[params.social]]
+    icon = "medium"
+    icon_pack = "fab"
+    link = "https://medium.com/@concordbands"
+
+  [[params.social]]
+    icon = "soundcloud"
+    icon_pack = "fab"
+    link = "https://soundcloud.com/concordbands"
+
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # [[params.social]]
+  #   icon = "cv"
+  #   icon_pack = "ai"
+  #   link = "files/cv.pdf"
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+[params.menus]
+  # Align the main menu to the right of the page? (true/false)
+  align_right = true
+
+[[menu.main]]
+  name = "<i class='fas fa-home'></i>Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "<i class='fas fa-newspaper'></i> News"
+  url = "#news"
+  weight = 2
+
+[[menu.main]]
+  name = "<i class='fas fa-calendar'></i> Calendar"
+  url = "#calendar"
+  weight = 3
+
+[[menu.main]]
+  name = "<i class='fas fa-book'></i> Handbook"
+  url = "/handbook/"
+  weight = 4
+
+[[menu.main]]
+  name = "<i class='fas fa-info'></i> About"
+  url = "#ourprogram"
+  weight = 5
+  # [[menu.main]]
+  #   parent = "<i class='fas fa-info'></i> About"
+  #   name = "<i class='fas fa-music'></i> Our Program"
+  #   url = "#ourprogram"
+  #   weight = 1
+  # [[menu.main]]
+  #   parent = "<i class='fas fa-info'></i> About"
+  #   name = "<i class='fas fa-magic'></i> Our Directors"
+  #   url = "#ourdirectors"
+  #   weight = 2
+  # [[menu.main]]
+  #   parent = "<i class='fas fa-info'></i> About"
+  #   name = "<i class='fas fa-award'></i> Awards & Recognition"
+  #   url = "#awards"
+  #   weight = 3
+
+[[menu.main]]
+  name = "<i class='fas fa-user-plus'></i> Join"
+  url = "/join/"
+  weight = 6
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 7
+
+# Search.
+[params.search]
+  # Search provider:
+  #   0: No search engine
+  #   1: Built-in (Fuse)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 1
+
+  # Configuration of Algolia search engine.
+  # Paste the values from your Algolia dashboard.
+  [params.search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the website.
+[languages.en]
+  languageCode = "en-us"
+
+# Uncomment the lines below to configure your website in a second language.
+#[languages.zh]
+#  languageCode = "zh-Hans"
+#  title = "Chinese website title..."
+#  [languages.zh.params]
+#    name = "Your name in Chinese..."
+#    role = "Your role in Chinese..."
+#  [[languages.zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1
