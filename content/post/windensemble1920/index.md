@@ -4,7 +4,7 @@ subtitle = "Information and audition music is now available"
 
 date = 2019-05-13T00:00:00
 lastmod = 2019-05-13T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
