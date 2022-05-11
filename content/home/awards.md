@@ -51,7 +51,7 @@ date_format = "2006"
 
   **MICCA Concert Festival**  6th Grade Concert Band: Gold Medal; 7th & 8th Grade Concert Band: Gold Medal
 
-  **MAJE Junior Festival**  Jazz Band A: TBD; Jazz Band B: TBD
+  **MAJE Junior Festival**  Jazz Band A: Silver Medal
 
   <hr>
   *Recognition & Highlights*  Wind Ensemble NYC Performance Trip (performance at Lincoln Center Plaza, workshop w/ Dr. Peter Boonshaft), Jazz Night Guest Artist: George Murphy, Elementary Honor Band Conductor: Jeff Leonard
