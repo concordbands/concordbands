@@ -36,6 +36,7 @@ date_format = "2006"
   description = """<br>
  
   **MICCA Concert Festival**  Cancelled due to COVID-19 Pandemic
+  
   **MAJE Junior Festival**  Cancelled due to COVID-19 Pandemic
 
   <hr>
