@@ -20,14 +20,35 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 # Current Year
-
+[[experience]]
+  date_start = "2021-01-01"
+  date_end = "2022-01-01"
+  description = """<br>
+  
+  **MICCA Concert Festival**. 6th Grade Concert Band: Silver Medal; 7th Grade Concert Band: Silver Medal; 8th Grade Concert Band: Bronze Medal
+  
+  """
+  
+#2019-2020
+[[experience]]
+  date_start = "2020-01-01"
+  date_end = "2021-01-01"
+  description = """<br>
+ 
+  The band program survived remote/hybrid learning during the COVID-19 Pandemic
+  """
+  
 #2019-2020
 [[experience]]
   date_start = "2019-01-01"
-  date_end = "2021-01-01"
+  date_end = "2020-01-01"
   description = """<br>
-  
-  *The Concord Bands survived two years of remote/hybrid learning during the COVID-19 Pandemic!*
+ 
+  **MICCA Concert Festival**  Cancelled due to COVID-19 Pandemic
+  **MAJE Junior Festival**  Cancelled due to COVID-19 Pandemic
+
+  <hr>
+  *Recognition & Highlights*  Jazz Night Guest Artist: John Mastroianni
   """
   
 #2018-2019
