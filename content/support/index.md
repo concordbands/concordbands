@@ -18,7 +18,7 @@ weight = 1
 <html>
 <script type="text/javascript">
 <!--
-window.location = "http://www.concordamp.org"
+window.location = "https://www.concordamp.org"
 //-->
 </script>
-<iframe src="http://www.concordamp.org" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></html>
+<iframe src="https://www.concordamp.org" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></html>
