@@ -27,6 +27,9 @@ date_format = "2006"
   
   **MICCA Concert Festival**. 6th Grade Concert Band: Silver Medal; 7th Grade Concert Band: Silver Medal; 8th Grade Concert Band: Bronze Medal
   
+  <hr>
+  *Recognition & Highlights*<br>
+  Elementary Honor Band Conductor: Dr. Sommer Forrester
   """
    
 #2019-2021
