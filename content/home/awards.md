@@ -40,7 +40,7 @@ date_format = "2006"
   **MAJE Junior Festival**  Cancelled due to COVID-19 Pandemic
 
   <hr>
-  *Recognition & Highlights*
+  *Recognition & Highlights*<br>
   Jazz Night Guest Artist: John Mastroianni (2019/20)
   """
   
@@ -55,7 +55,7 @@ date_format = "2006"
   **MAJE Junior Festival**  Jazz Band A: Silver Medal
 
   <hr>
-  *Recognition & Highlights*
+  *Recognition & Highlights*<br>
   Wind Ensemble NYC Performance Trip (performance at Lincoln Center Plaza, workshop w/ Dr. Peter Boonshaft), Jazz Night Guest Artist: George Murphy, Elementary Honor Band Conductor: Jeff Leonard
   """
 
@@ -70,7 +70,7 @@ date_format = "2006"
   **MAJE Junior Festival**  Jazz Band A: Silver Medal
 
   <hr>
-  *Recognition & Highlights*
+  *Recognition & Highlights*<br>
   Wind Ensemble Performance at Berklee Scholastic Invitational
   """
 
@@ -96,7 +96,7 @@ date_format = "2006"
   **MAJE Junior Festival**  Jazz Band A: Bronze Medal
 
   <hr>
-  *Recognition & Highlights*
+  *Recognition & Highlights*<br>
   World Premier: “From the Concord Chronicles: The Shot Heard 'Round the World” (6th Grade Concert Band) and “Resplendent Light” (7th & 8th Grade Concert Band) by Tyler S. Grant
   """
 
